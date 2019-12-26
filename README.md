@@ -4,7 +4,7 @@
 
 Because I couldn't find a theme that was okay with Chinese characters display, I had to improve the font size and Chinese display effect based on [Ursine](https://github.com/aCluelessDanny/typora-theme-ursine).
 
-![thumbnail](imgs/example.png)
+![thumbnail](example.png)
 
 另外说明，本人完全不懂 CSS、SCSS。
 
